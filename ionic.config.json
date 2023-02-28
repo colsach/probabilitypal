@@ -1,0 +1,7 @@
+{
+  "name": "dist-vis-final",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
