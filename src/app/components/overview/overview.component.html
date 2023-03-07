@@ -1,0 +1,15 @@
+
+<div class="container">
+  <div class="container" *ngFor="let typeLabel of typeLabels;let i = index;">
+    <ion-title class="type-title">{{typeLabel.title}}</ion-title>
+    <div class="card-wrapper">
+      <ion-card class="card-container" *ngFor="let label of typeLabel.labels; let j = index;">
+        <button class="card-button" [routerLink]="[label.url]" routerDirection="root">
+          <ion-card-title class="card-title">{{label.title}}</ion-card-title>
+          <img class="overview-img" src="../../../assets/overview/{{label.name}}.png">
+        </button>
+        <!--<app-chart [data]="chartData[i][j]" [type]="chartData[i][j].type"></app-chart>-->
+      </ion-card>
+    </div>
+  </div>
+</div>

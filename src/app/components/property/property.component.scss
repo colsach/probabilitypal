@@ -1,0 +1,77 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: unset;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.prop-title {
+    align-self: start;
+}
+.equation {
+    align-self: center;
+}
+
+app-line-list {
+    align-self: center;
+}
+.description-container {
+    //width: calc(150px * calc(var(--maxParamNum) + 1));
+    text-align: justify;
+    margin: 15px 0;
+    padding: none;
+}
+.content-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 23px;
+}
+.equation-container {
+    max-width: 100%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+code {
+    font-family: SourceCodePro SemiBold !important;
+    background-color: lightgrey;
+    padding: 1px 5px;
+    border-radius: 3px;
+    vertical-align: text-bottom;
+}
+a {
+    text-decoration: none;
+}
+@media screen and (min-width:450px) {
+    /*
+    .container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    */
+    .equation {
+        align-self: unset;
+    }
+    app-line-list {
+        align-self: unset;
+    }
+    
+}
+@media screen and (min-width:670px) {
+    .equation-container {
+        max-width: 650px;
+    }
+}

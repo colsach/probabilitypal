@@ -1,0 +1,4 @@
+{
+    "functions":["ctor","logpdf","logpmf","logcdf","mgf"],
+    "distributions":["degenerate","signrank"]
+}

@@ -1,0 +1,51 @@
+<div class="container" [class.color-container]="!color">
+  <div class="container lines-container" [class.stacked]="!color">
+    <div id="item"
+      style="--lineColor: {{line.borderColor}};"
+      class="container line-input-container"
+      *ngFor="let l of line.params;let i = index; let isLast = last;"
+      [class.isLast]="isLast"
+      [class.noPadding]="!color">
+      <label class="line-param-label" *ngIf="l.entity === ''">{{l.name}}</label>
+      <label class="line-param-label entity" *ngIf="l.entity !== ''">{{l.entity}}</label>
+      <input class="line-param-input"
+        type="number"      
+        [step]="l.step"
+        [ngModel]="l.value"
+        (ngModelChange)="onParamChange(i,$event)" />
+    </div>
+  </div>
+  <div *ngIf="color" class="container line-button-container" >
+    
+      <button
+      class="line-button"
+      (click)="onRemove()"
+      style="--color: {{line.borderColor}};">
+      <svg 
+        xmlns="http://www.w3.org/2000/svg" 
+        class="ionicon line-button-icon line-button-svg" 
+        viewBox="0 0 512 512">
+        <title>Close Circle</title>
+        <path 
+          d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z" 
+          fill="none" 
+          stroke="currentColor" 
+          stroke-miterlimit="10" 
+          stroke-width="32"/>
+        <path 
+          fill="none" 
+          stroke="currentColor" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" 
+          stroke-width="32" 
+          d="M320 320L192 192M192 320l128-128"/>
+      </svg>
+      </button>
+  </div>
+  <div *ngIf="!color" class="container result-content-container">
+    <div class="equal-container">
+      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 96 960 960" width="24"><path d="M180 736v-80h600v80H180Zm0-240v-80h600v80H180Z"/></svg>
+    </div>
+    <div id="item" style="width: unset;" class="line-input-container result-container">{{result}}</div>
+  </div>
+</div>

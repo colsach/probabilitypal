@@ -1,0 +1,87 @@
+<!--
+  <div class="container" style="display:flex; flex-direction:column; flex-wrap:nowrap">
+  <ion-title style="align-self: start;">{{label.title}}</ion-title>
+  <div class="equation-container">
+    <div class="equation-wrapper" style="--maxParamNum: {{maxParamNum}}">
+      <div class="equation {{label.dist}}-{{label.name}}"></div>
+    </div>
+    <div class="description-container" style="--maxParamNum: {{maxParamNum}}">
+      <span *ngFor="let des of label.description;">
+        <code *ngIf="des.id === 'code'">{{des.text}}</code>
+        <span *ngIf="des.id === 'text'">{{des.text}}</span>
+        <a *ngIf="des.id === 'link'">{{des.text}}</a>
+      </span>
+    </div>
+  </div>
+  <div class="wrapper" style="--maxParamNum: {{maxParamNum}}">
+    <app-chart [data]="chartData" [type]="chartData.type" style="--maxParamNum: {{maxParamNum}}"></app-chart>
+    <app-line-list class="line-list" 
+      [lines]="lines" 
+      [chartRange]="chartData.range"
+      (maxParamN)="onMaxParamN($event)"
+      (lineChange)="onLineChange($event)"
+      (rangeChange)="onRangeChange($event)"
+      (delete)="onDeleteLine($event)"
+      (add)="onAddLine($event)"></app-line-list>
+  </div>  
+  
+</div>
+-->
+<div class="container" style="display:flex; flex-direction:column; flex-wrap:nowrap">
+  <ion-title style="align-self: start;">{{label.title}}</ion-title>
+  <div class="equation-container">
+    <div class="equation-wrapper" style="--maxParamNum: {{maxParamNum}}">
+      <!--<div class="equation {{label.dist}}-{{label.name}} equation-svg"></div>-->
+      <img *ngIf="exist" src="../../../assets/equations/{{label.dist}}/{{label.dist}}-{{label.name}}.svg">
+    </div>
+    <div class="description-container" style="--maxParamNum: {{maxParamNum}}">
+      <span *ngFor="let des of label.description;">
+        <code *ngIf="des.id === 'code'">{{des.text}}</code>
+        <span *ngIf="des.id === 'text'">{{des.text}}</span>
+        <span *ngIf="des.id === 'link'">
+          <a *ngIf="des.type === 'dist'" href="{{label.distLink}}" target="_blank">{{des.text}}</a>
+          <a *ngIf="des.type === 'func'" href="{{label.funcLink}}" target="_blank">{{des.text}}</a>
+        </span>
+        <span *ngIf="des.id === 'img'"><img [src]="des.type" style="vertical-align: middle;"></span>
+        <span *ngIf="des.id === 'break'"><br></span>
+      </span>
+    </div>
+  </div>
+  <div class="wrapper" style="--maxParamNum: {{maxParamNum}}">
+    <app-chart *ngIf="chartData.type !== ''" [data]="chartData" [type]="chartData.type" style="--maxParamNum: {{maxParamNum}};"></app-chart>
+    <div class="body" style="--maxParamNum: {{maxParamNum}};">
+      <div class="wrapper2">
+        <div class="wrapper2 range-container range-wrapper">
+          <div id="range-label"><label>Range: </label></div>
+          <div class="wrapper2 range-container">
+            <div id="item" class="wrapper2 range-input-container"
+              *ngFor="let r of chartData.range; let isLast = last;let i = index;" [class.isLast]="isLast">
+              <label *ngIf="!isLast" class="range-label">min:</label>
+              <label *ngIf="isLast" class="range-label">max:</label>
+              <input class="range-input" type="number" step="1" [ngModel]="r"
+                (ngModelChange)="onRangeChange(i,$event)" />
+            </div>
+          </div>
+        </div>
+        <div class="button-wrapper" id="add-item">
+          <button class="range-button" (click)="onAddLine()">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ionicon button-icon" viewBox="0 0 512 512">
+              <title>Add Circle</title>
+              <path d="M448 256c0-106-86-192-192-192S64 150 64 256s86 192 192 192 192-86 192-192z" fill="none"
+                stroke="currentColor" stroke-miterlimit="10" stroke-width="32" />
+              <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"
+                d="M256 176v160M336 256H176" />
+            </svg>
+
+            <!--<label id="button-label"> Add Item</label>-->
+            Add Item
+          </button>
+        </div>
+      </div>
+      <app-line-list class="line-list" [lines]="lines" (maxParamN)="onMaxParamN($event)"
+        (lineChange)="onLineChange($event)" (delete)="onDeleteLine($event)"
+        style="--maxParamNum: {{maxParamNum}}"></app-line-list>
+    </div>
+  </div>
+
+</div>

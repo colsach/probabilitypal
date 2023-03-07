@@ -1,0 +1,42 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>{{ title }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">{{ title }}</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container" *ngIf="folder === 'overview'" style="margin-top: 30px;">
+    <app-overview [distService]="distService" [typeLabels]="overviewLabels"></app-overview>
+  </div>
+  <div id="container" *ngIf="folder !== 'overview'">
+    <ion-list>
+      <ion-item>
+        <ion-select [(ngModel)]="preSelected" placeholder="Select functions and properties" [multiple]="true"
+          (ionChange)="handleSelectChange($event)">
+          <ion-select-option *ngFor="let f of availible;" value="{{f.name}}">{{f.short}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+    </ion-list>
+    <!--
+    <div>
+      <app-function *ngFor="let func of functionLabels;" [distService]="distService" [label]="func"></app-function>
+      <app-property *ngFor="let prop of propertyLabels;" [label]="prop"></app-property>
+    </div>
+    -->
+    <div>
+      <div class="func-prop-container" *ngFor="let sel of selected; let isLast = last;" [class.isLast]="isLast">
+        <app-function *ngIf="sel.type ==='func'" [distService]="distService" [label]="sel.prm"></app-function>
+        <app-property *ngIf="sel.type === 'prop'" [distService]="distService" [label]="sel.prm"></app-property>
+      </div>
+    </div>
+  </div>
+</ion-content>

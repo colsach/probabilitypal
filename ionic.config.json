@@ -1,0 +1,7 @@
+{
+  "name": "ProbabilityPal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

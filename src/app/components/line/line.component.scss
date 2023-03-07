@@ -1,0 +1,128 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+}
+.lines-container {
+    flex-direction: column;
+}
+.line-input-container {
+    padding: 5px 10px;
+}
+
+#item {
+    border-left: 2px solid var(--lineColor);
+    border-right: 2px solid var(--lineColor);
+    width: 150px;
+    justify-content: space-evenly;
+}
+#item.noPadding{
+    padding-left: 0;
+    padding-right: 0;
+}
+.line-param-label {
+    font-family: Roboto Medium !important;
+    padding-right: 5px;
+    //padding: 5px 5px 5px 10px;
+}
+
+.line-param-input {
+    font-family: Roboto Regular;
+    text-align: right;
+    max-width: 75px;
+    background-color: white;
+    padding: 3px 0px;
+}
+
+.line-button-container {
+    padding: 0px 5px 0px 10px;
+}
+
+.line-button {
+    width: fit-content;
+    height: fit-content;
+    background-color: inherit;
+    color: transparent;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.line-button-svg {
+    color: inherit;
+}
+.line-button-icon {
+    min-width: 30px;
+    min-height: 30px;
+    height: 100%;
+    aspect-ratio: 1/1;
+    color: black;
+}
+.equal-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.equal-svg {
+    color: inherit;
+}
+.equal-icon {
+    min-width: 30px;
+    min-height: 30px;
+    height: 100%;
+    aspect-ratio: 1/1;
+    color: black;
+}
+
+.color-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.result-content-container {
+    padding-left: 0;
+    justify-content: start;
+}
+.result-container {
+    padding-right: 0px;
+    text-align: start;
+    padding-left: 5px;
+    //max-width: calc(100% - 46px);
+}
+@media screen and (min-width:450px) {
+    
+    .lines-container {
+        flex-direction: row;
+    }
+    .lines-container.stacked {
+        flex-direction: column;
+    }
+    #item {
+        border-left: 2px solid var(--lineColor);
+        border-right: none;
+        //justify-content: center;
+    }
+    #item.isLast {
+        border-right: 2px solid var(--lineColor);
+    }
+    /*
+    .color-container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: start;
+    }
+    */
+}
+/*
+.entity {
+    font-family: Roboto Regular !important;
+}
+*/

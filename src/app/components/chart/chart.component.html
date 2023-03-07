@@ -1,0 +1,38 @@
+<div class="container" *ngIf="type === 'line' && data.width === 0">
+  <canvas baseChart
+    [type]="'line'"
+    [labels]="data.labels"
+    [datasets]="data.datasets"
+    [options]="data.options"
+    [plugins]="data.plugins"
+    [legend]="data.legend"></canvas>
+</div>
+<div class="container" *ngIf="type === 'bar' && data.width === 0">
+  <canvas baseChart
+    [type]="'bar'"
+    [labels]="data.labels"
+    [datasets]="data.datasets"
+    [options]="data.options"
+    [plugins]="data.plugins"
+    [legend]="data.legend"></canvas>
+</div>
+<div class="container" *ngIf="type === 'line' && data.width !== 0">
+  <canvas baseChart
+    [type]="'line'"
+    [labels]="data.labels"
+    [datasets]="data.datasets"
+    [options]="data.options"
+    [plugins]="data.plugins"
+    [legend]="data.legend"
+    [width]="data.width"></canvas>
+</div>
+<div class="container" *ngIf="type === 'bar' && data.width !== 0">
+  <canvas baseChart
+    [type]="'bar'"
+    [labels]="data.labels"
+    [datasets]="data.datasets"
+    [options]="data.options"
+    [plugins]="data.plugins"
+    [legend]="data.legend"
+    [width]="data.width"></canvas>
+</div>
