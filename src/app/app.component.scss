@@ -12,6 +12,9 @@ ion-menu.md ion-content {
 ion-menu.md ion-list {
   padding: 20px 0;
 }
+ion-menu.md ion-list.isFirst {
+  padding: 0 0 20px 0;
+}
 
 ion-menu.md ion-note {
   margin-bottom: 30px;
@@ -72,7 +75,9 @@ ion-menu.ios ion-content {
 ion-menu.ios ion-list {
   padding: 20px 0 0 0;
 }
-
+ion-menu.ios ion-list.isFirst {
+  padding: 0 0 0 0;
+}
 ion-menu.ios ion-note {
   line-height: 24px;
   margin-bottom: 20px;
@@ -116,4 +121,17 @@ ion-note {
 
 ion-item.selected {
   --color: var(--ion-color-primary);
+}
+.menu {
+  max-width: none;
+}
+@media screen and (min-width:450px) {
+  .menu{
+    max-width: 300px;
+  }
+  
+}
+
+ion-list.isFirst {
+  padding: 0 0 20px 0;
 }

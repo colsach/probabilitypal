@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'dist-vis-final',
+  appName: 'ProbabilityPal',
   webDir: 'www',
   bundledWebRuntime: false
 };

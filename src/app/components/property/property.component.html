@@ -1,0 +1,25 @@
+<div class="container">
+  <ion-title class="prop-title">{{label.title}}</ion-title>
+  <!--<div class="equation {{label.dist}}-{{label.name}}"></div>-->
+  <div class="content-container">
+    <!--<div class="equation-container {{label.dist}}-{{label.name}}-width">-->
+    <div class="equation-container">
+      <div class="description-container">
+        <span *ngFor="let des of label.description;">
+          <code *ngIf="des.id === 'code'">{{des.text}}</code>
+          <span *ngIf="des.id === 'text'">{{des.text}}</span>
+          <span *ngIf="des.id === 'link'">
+            <a *ngIf="des.type === 'dist'" href="{{label.distLink}}" target="_blank">{{des.text}}</a>
+            <a *ngIf="des.type === 'func'" href="{{label.funcLink}}" target="_blank">{{des.text}}</a>
+            <a *ngIf="des.type === ''">{{des.text}}</a>
+          </span>
+          <span *ngIf="des.id === 'img'"><img [src]="des.type" style="vertical-align: middle;"></span>
+          <span *ngIf="des.id === 'break'"><br></span>
+        </span>
+      </div>
+      <img *ngIf="exist" src="../../../assets/equations/{{label.dist}}/{{label.dist}}-{{label.name}}.svg">
+    </div>
+    <app-line-list [distService]="distService" [dist]="label.dist" [prop]="label.name" [lines]="lines"
+      [color]="false"></app-line-list>
+  </div>
+</div>
