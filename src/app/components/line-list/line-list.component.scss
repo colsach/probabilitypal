@@ -40,6 +40,7 @@ li.list-item{
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: var(--background-color);
+    max-height: 160px;
 }
 li.list-item.isLast{
     border-bottom: none;
@@ -168,5 +169,8 @@ li.list-item.noID::before{
     #item.isLast {
         border-right: none;
         border-left: none;
+    }
+    li.list-item{
+        max-height: 70px;
     }
 }
