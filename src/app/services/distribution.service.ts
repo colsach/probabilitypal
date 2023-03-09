@@ -6,7 +6,7 @@ var linespace = require('@stdlib/array/linspace');
 
 import * as funcProp from './data/funcProp.json';
 import * as config from './data/config.json';
-import * as data from './data/data.json';
+//import * as data from './data/data.json';
 import * as addid from './data/additional.json';
 import { Platform } from '@ionic/angular';
 
@@ -51,6 +51,7 @@ export class DistributionService {
     }
     return distTypes;
   }
+  /*
   private readChartData(dist: string, func: string) {
     let chartType = this._props[dist]['functions'][func]['type'];
     let savedData = this._data[dist][func]['chart'];
@@ -92,6 +93,8 @@ export class DistributionService {
     }
     return {}
   }
+  */
+  /*
   private analyseDescription(dist: string, func: string) {
     let des = this._props[dist]['functions'][func];
     let text: Array<{ text: string, code: boolean }> = [];
@@ -118,6 +121,7 @@ export class DistributionService {
     console.log('analysed:', text)
     return text;
   }
+  */
   private analyseText(dist: string, func: string, type: string) {
     let funcInfo = this._props[dist][type][func];
     let text: Array<{ text: string, id: string, type: string }> = [];
@@ -370,6 +374,7 @@ export class DistributionService {
     }
     return result;
   }
+  /*
   private extractCode(text: string) {
     let result: Array<{ text: string, id: string, type: string }> = []
     let idxS = text.indexOf('<code>');
@@ -406,6 +411,8 @@ export class DistributionService {
     }
     return { text: '', result: result, end: false };
   }
+  */
+  /*
   private extractLink(text: string) {
     let result: Array<{ text: string, id: string, type: string }> = []
     let idxS = text.indexOf('<link>');
@@ -490,9 +497,11 @@ export class DistributionService {
         }
       }
     }
-    */
+    
     return { text: '', result: result, end: false };
   }
+  */
+  /*
   private extractEntity(text: string) {
     let idxS = text.indexOf('<entity>');
     let idxE = text.indexOf('</entity>');
@@ -511,6 +520,7 @@ export class DistributionService {
     }
     return '';
   }
+  */
   private useFunction(f: Function, line: Line, x: number | undefined = undefined): number {
     if (line.params.length === 1) {
       if (x === undefined) {
@@ -698,6 +708,7 @@ export class DistributionService {
 
     return labels;
   }
+  /*
   public getOverviewLabels(): Array<any> {
     let labels: Array<any> = []
     for (let dist of Object.keys(this._dists)) {
@@ -717,7 +728,8 @@ export class DistributionService {
     }
     return labels;
   }
-
+  */
+/*
   public getLines(dist: string, func: string): Array<Line> {
     let lines = this._data[dist][func]['lines']
     let result: Array<Line> = []
@@ -739,6 +751,7 @@ export class DistributionService {
     }
     return result;
   }
+  */
   public getLines2(dist: string, func: string): Array<Line> {
     if ((this._data[dist] !== undefined) && (this._data[dist][func] !== undefined) && (this._data[dist][func].lines)) {
       return this._data[dist][func].lines;
@@ -774,6 +787,7 @@ export class DistributionService {
     }
     return lines;
   }
+  /*
   public getLines3(dist: string, func: string, callback: VoidFunction = () => { }): Array<Line> {
     if ((this._data[dist] !== undefined) && (this._data[dist][func] !== undefined) && (this._data[dist][func].lines)) {
       return this._data[dist][func].lines;
@@ -810,6 +824,7 @@ export class DistributionService {
     }
     return lines;
   }
+  */
   public getLinesProp(dist: string) {
     let init = this._props[dist]['info']['init_val'];
     let param = this._props[dist]['info']['param'];
@@ -835,6 +850,7 @@ export class DistributionService {
     }
     return NaN;
   }
+  /*
   public getChartData(dist: string, func: string): {
     type: string,
     labels: Array<number>,
@@ -866,7 +882,7 @@ export class DistributionService {
       chartData.options = cData.chartOptions;
       chartData.plugins = cData.chartPlugins;
       chartData.labels = cData.chartLegend;
-      */
+      
     }
 
     return {
@@ -879,6 +895,7 @@ export class DistributionService {
       legend: false,
     };
   }
+  */
   public getChartData2(dist: string, func: string): {
     type: string,
     labels: Array<number>,
@@ -932,6 +949,7 @@ export class DistributionService {
       width: 0
     };
   }
+  /*
   public getChartData3(dist: string, func: string): {
     type: string,
     labels: Array<number>,
@@ -992,7 +1010,7 @@ export class DistributionService {
       legend: false,
     };
   }
-  
+  */
   private createChartLabels(range: Array<number>, type: string) {
     let labels: Array<number> = [];
     if (type === 'line') {
@@ -1056,6 +1074,7 @@ export class DistributionService {
     }
     return [];
   }
+  /*
   private createChartDatasets3(f: Function, lines: Array<Line>, labels: Array<number>, type: string, stepped: boolean = false) {
     if (type === 'line') {
       let datasets: ChartDataset<'line'>[] = [];
@@ -1109,6 +1128,7 @@ export class DistributionService {
     }
     return [];
   }
+  */
   private createChartOptions(type: string, range: Array<number>, dist:string, func:string) {
     if (type === 'line') {
       let options: ChartOptions<'line'> = { responsive: true };
@@ -1192,6 +1212,7 @@ export class DistributionService {
     }
     return undefined;
   }
+  /*
   private createChartOptions3(type: string, range: Array<number>) {
     if (type === 'line') {
       let options: ChartOptions<'line'> = { responsive: true };
@@ -1231,6 +1252,8 @@ export class DistributionService {
     }
     return undefined;
   }
+  */
+  /*
   public getOverviewData(distTypes: Array<any>) {
     //console.log('Lables',distTypes);
 
@@ -1271,6 +1294,7 @@ export class DistributionService {
     }
     return chartData;
   }
+  */
   private getShort(func: string) {
     let short = this._addid['shorts'][func];
     if (short !== undefined) {
@@ -1341,6 +1365,7 @@ export class DistributionService {
     }
     return result;
   }
+/*
   public getFuncLabels2(dist: string, list: any) {
     let functions = this.getFunctionLabels(dist);
     let result: Array<any> = []
@@ -1355,6 +1380,8 @@ export class DistributionService {
     }
     return result;
   }
+*/
+  /*
   public getPropLabels2(dist: string, list: any) {
     let properties = this.getPropertyLabels(dist);
     let result: Array<any> = []
@@ -1369,7 +1396,7 @@ export class DistributionService {
     }
     return result;
   }
-
+*/
 
   public onAddLine(dist: string, func: string) {
     let lines: Array<Line> = this._data[dist][func]['lines'];
@@ -1466,7 +1493,6 @@ export class DistributionService {
     }
   }
 }
-
 
 export class LineParam {
   private _name: string = "param";
