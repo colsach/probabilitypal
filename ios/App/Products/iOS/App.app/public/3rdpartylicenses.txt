@@ -1,0 +1,2483 @@
+@angular/cdk
+MIT
+The MIT License
+
+Copyright (c) 2023 Google LLC.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+@angular/common
+MIT
+
+@angular/core
+MIT
+
+@angular/forms
+MIT
+
+@angular/platform-browser
+MIT
+
+@angular/router
+MIT
+
+@babel/runtime
+MIT
+MIT License
+
+Copyright (c) 2014-present Sebastian McKenzie and other contributors
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+@ionic/angular
+MIT
+
+@ionic/core
+MIT
+Copyright 2015-present Drifty Co.
+http://drifty.com/
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+@kurkle/color
+MIT
+The MIT License (MIT)
+
+Copyright (c) 2018-2021 Jukka Kurkela
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+@stdlib/array/float64
+Apache-2.0
+
+@stdlib/array/linspace
+Apache-2.0
+
+@stdlib/array/uint16
+Apache-2.0
+
+@stdlib/array/uint32
+Apache-2.0
+
+@stdlib/array/uint8
+Apache-2.0
+
+@stdlib/assert/has-float64array-support
+Apache-2.0
+
+@stdlib/assert/has-generator-support
+Apache-2.0
+
+@stdlib/assert/has-own-property
+Apache-2.0
+
+@stdlib/assert/has-symbol-support
+Apache-2.0
+
+@stdlib/assert/has-tostringtag-support
+Apache-2.0
+
+@stdlib/assert/has-uint16array-support
+Apache-2.0
+
+@stdlib/assert/has-uint32array-support
+Apache-2.0
+
+@stdlib/assert/has-uint8array-support
+Apache-2.0
+
+@stdlib/assert/is-array
+Apache-2.0
+
+@stdlib/assert/is-boolean
+Apache-2.0
+
+@stdlib/assert/is-buffer
+Apache-2.0
+
+@stdlib/assert/is-float64array
+Apache-2.0
+
+@stdlib/assert/is-function
+Apache-2.0
+
+@stdlib/assert/is-integer
+Apache-2.0
+
+@stdlib/assert/is-little-endian
+Apache-2.0
+
+@stdlib/assert/is-nan
+Apache-2.0
+
+@stdlib/assert/is-nonnegative-integer
+Apache-2.0
+
+@stdlib/assert/is-number
+Apache-2.0
+
+@stdlib/assert/is-object-like
+Apache-2.0
+
+@stdlib/assert/is-positive-integer
+Apache-2.0
+
+@stdlib/assert/is-positive-number
+Apache-2.0
+
+@stdlib/assert/is-probability
+Apache-2.0
+
+@stdlib/assert/is-uint16array
+Apache-2.0
+
+@stdlib/assert/is-uint32array
+Apache-2.0
+
+@stdlib/assert/is-uint8array
+Apache-2.0
+
+@stdlib/assert/tools/array-function
+Apache-2.0
+
+@stdlib/constants/float32/max
+Apache-2.0
+
+@stdlib/constants/float32/smallest-normal
+Apache-2.0
+
+@stdlib/constants/float64/e
+Apache-2.0
+
+@stdlib/constants/float64/eps
+Apache-2.0
+
+@stdlib/constants/float64/eulergamma
+Apache-2.0
+
+@stdlib/constants/float64/exponent-bias
+Apache-2.0
+
+@stdlib/constants/float64/fourth-pi
+Apache-2.0
+
+@stdlib/constants/float64/gamma-lanczos-g
+Apache-2.0
+
+@stdlib/constants/float64/half-ln-two
+Apache-2.0
+
+@stdlib/constants/float64/half-pi
+Apache-2.0
+
+@stdlib/constants/float64/high-word-exponent-mask
+Apache-2.0
+
+@stdlib/constants/float64/ln-half
+Apache-2.0
+
+@stdlib/constants/float64/ln-pi
+Apache-2.0
+
+@stdlib/constants/float64/ln-sqrt-two-pi
+Apache-2.0
+
+@stdlib/constants/float64/ln-two
+Apache-2.0
+
+@stdlib/constants/float64/ln-two-pi
+Apache-2.0
+
+@stdlib/constants/float64/max
+Apache-2.0
+
+@stdlib/constants/float64/max-base2-exponent
+Apache-2.0
+
+@stdlib/constants/float64/max-base2-exponent-subnormal
+Apache-2.0
+
+@stdlib/constants/float64/max-ln
+Apache-2.0
+
+@stdlib/constants/float64/max-safe-integer
+Apache-2.0
+
+@stdlib/constants/float64/min-base2-exponent-subnormal
+Apache-2.0
+
+@stdlib/constants/float64/min-ln
+Apache-2.0
+
+@stdlib/constants/float64/ninf
+Apache-2.0
+
+@stdlib/constants/float64/pi
+Apache-2.0
+
+@stdlib/constants/float64/pi-squared
+Apache-2.0
+
+@stdlib/constants/float64/pinf
+Apache-2.0
+
+@stdlib/constants/float64/smallest-normal
+Apache-2.0
+
+@stdlib/constants/float64/smallest-subnormal
+Apache-2.0
+
+@stdlib/constants/float64/sqrt-eps
+Apache-2.0
+
+@stdlib/constants/float64/sqrt-half-pi
+Apache-2.0
+
+@stdlib/constants/float64/sqrt-pi
+Apache-2.0
+
+@stdlib/constants/float64/sqrt-three
+Apache-2.0
+
+@stdlib/constants/float64/sqrt-two
+Apache-2.0
+
+@stdlib/constants/float64/sqrt-two-pi
+Apache-2.0
+
+@stdlib/constants/float64/two-pi
+Apache-2.0
+
+@stdlib/constants/int32/max
+Apache-2.0
+
+@stdlib/constants/uint16/max
+Apache-2.0
+
+@stdlib/constants/uint32/max
+Apache-2.0
+
+@stdlib/constants/uint8/max
+Apache-2.0
+
+@stdlib/math/base/assert/is-even
+Apache-2.0
+
+@stdlib/math/base/assert/is-finite
+Apache-2.0
+
+@stdlib/math/base/assert/is-infinite
+Apache-2.0
+
+@stdlib/math/base/assert/is-integer
+Apache-2.0
+
+@stdlib/math/base/assert/is-nan
+Apache-2.0
+
+@stdlib/math/base/assert/is-negative-integer
+Apache-2.0
+
+@stdlib/math/base/assert/is-negative-zero
+Apache-2.0
+
+@stdlib/math/base/assert/is-nonnegative-integer
+Apache-2.0
+
+@stdlib/math/base/assert/is-odd
+Apache-2.0
+
+@stdlib/math/base/assert/is-positive-integer
+Apache-2.0
+
+@stdlib/math/base/assert/is-positive-zero
+Apache-2.0
+
+@stdlib/math/base/assert/is-probability
+Apache-2.0
+
+@stdlib/math/base/special/abs
+Apache-2.0
+
+@stdlib/math/base/special/acos
+Apache-2.0
+
+@stdlib/math/base/special/asin
+Apache-2.0
+
+@stdlib/math/base/special/atan
+Apache-2.0
+
+@stdlib/math/base/special/atan2
+Apache-2.0
+
+@stdlib/math/base/special/beta
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/betainc
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/betaincinv
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/betaln
+Apache-2.0
+
+@stdlib/math/base/special/binomcoef
+Apache-2.0
+
+@stdlib/math/base/special/binomcoefln
+Apache-2.0
+
+@stdlib/math/base/special/ceil
+Apache-2.0
+
+@stdlib/math/base/special/copysign
+Apache-2.0
+
+@stdlib/math/base/special/cos
+Apache-2.0
+
+@stdlib/math/base/special/cospi
+Apache-2.0
+
+@stdlib/math/base/special/digamma
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/erf
+Apache-2.0
+
+@stdlib/math/base/special/erfc
+Apache-2.0
+
+@stdlib/math/base/special/erfcinv
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/erfinv
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/exp
+Apache-2.0
+
+@stdlib/math/base/special/expm1
+Apache-2.0
+
+@stdlib/math/base/special/factorial
+Apache-2.0
+
+@stdlib/math/base/special/factorialln
+Apache-2.0
+
+@stdlib/math/base/special/floor
+Apache-2.0
+
+@stdlib/math/base/special/gamma
+Apache-2.0
+
+@stdlib/math/base/special/gamma-delta-ratio
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/gamma-lanczos-sum
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/gamma-lanczos-sum-expg-scaled
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/gamma1pm1
+Apache-2.0
+
+@stdlib/math/base/special/gammainc
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/gammaincinv
+Apache-2.0
+
+@stdlib/math/base/special/gammaln
+Apache-2.0
+
+@stdlib/math/base/special/kernel-betainc
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/kernel-betaincinv
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/kernel-cos
+Apache-2.0
+
+@stdlib/math/base/special/kernel-sin
+Apache-2.0
+
+@stdlib/math/base/special/kernel-tan
+Apache-2.0
+
+@stdlib/math/base/special/ldexp
+Apache-2.0
+
+@stdlib/math/base/special/ln
+Apache-2.0
+
+@stdlib/math/base/special/log1p
+Apache-2.0
+
+@stdlib/math/base/special/log2
+Apache-2.0
+
+@stdlib/math/base/special/max
+Apache-2.0
+
+@stdlib/math/base/special/maxabs
+Apache-2.0
+
+@stdlib/math/base/special/min
+Apache-2.0
+
+@stdlib/math/base/special/minabs
+Apache-2.0
+
+@stdlib/math/base/special/pow
+Apache-2.0
+
+@stdlib/math/base/special/powm1
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/rempio2
+Apache-2.0
+
+@stdlib/math/base/special/riemann-zeta
+Apache-2.0 AND BSL-1.0
+
+@stdlib/math/base/special/round
+Apache-2.0
+
+@stdlib/math/base/special/signum
+Apache-2.0
+
+@stdlib/math/base/special/sin
+Apache-2.0
+
+@stdlib/math/base/special/sinc
+Apache-2.0
+
+@stdlib/math/base/special/sinh
+Apache-2.0
+
+@stdlib/math/base/special/sinpi
+Apache-2.0
+
+@stdlib/math/base/special/sqrt
+Apache-2.0
+
+@stdlib/math/base/special/tan
+Apache-2.0
+
+@stdlib/math/base/special/trunc
+Apache-2.0
+
+@stdlib/math/base/tools/continued-fraction
+Apache-2.0
+
+@stdlib/math/base/tools/evalpoly
+Apache-2.0
+
+@stdlib/math/base/tools/sum-series
+Apache-2.0
+
+@stdlib/number/ctor
+Apache-2.0
+
+@stdlib/number/float64/base/exponent
+Apache-2.0
+
+@stdlib/number/float64/base/from-words
+Apache-2.0
+
+@stdlib/number/float64/base/get-high-word
+Apache-2.0
+
+@stdlib/number/float64/base/get-low-word
+Apache-2.0
+
+@stdlib/number/float64/base/normalize
+Apache-2.0
+
+@stdlib/number/float64/base/set-high-word
+Apache-2.0
+
+@stdlib/number/float64/base/set-low-word
+Apache-2.0
+
+@stdlib/number/float64/base/signbit
+Apache-2.0
+
+@stdlib/number/float64/base/to-words
+Apache-2.0
+
+@stdlib/number/uint32/base/to-int32
+Apache-2.0
+
+@stdlib/regexp/function-name
+Apache-2.0
+
+@stdlib/stats/base/dists
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/median
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/arcsine/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/median
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/pmf
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/bernoulli/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/beta
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/median
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/beta/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/betaprime/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/logpmf
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/median
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/pmf
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/binomial/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/cauchy
+Apache-2.0
+
+@stdlib/stats/base/dists/cauchy/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/cauchy/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/cauchy/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/cauchy/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/cauchy/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/cauchy/median
+Apache-2.0
+
+@stdlib/stats/base/dists/cauchy/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/cauchy/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/cauchy/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/chi
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/chi/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/median
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/chisquare/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/median
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/cosine/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/logpmf
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/median
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/pmf
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/degenerate/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/logpmf
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/median
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/pmf
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/discrete-uniform/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/erlang/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/median
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/exponential/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/f
+Apache-2.0
+
+@stdlib/stats/base/dists/f/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/f/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/f/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/f/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/f/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/f/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/f/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/f/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/f/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/f/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/f/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/median
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/frechet/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/gamma/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/logpmf
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/median
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/pmf
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/geometric/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/median
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/gumbel/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/logpmf
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/pmf
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/hypergeometric/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/invgamma/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/median
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/kumaraswamy/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/median
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/laplace/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/levy
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/median
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/levy/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/median
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/logistic/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/median
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/lognormal/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/logpmf
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/pmf
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/negative-binomial/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/normal
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/median
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/normal/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/median
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/pareto-type1/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/logpmf
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/median
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/pmf
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/poisson/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/median
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/rayleigh/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/signrank
+Apache-2.0
+
+@stdlib/stats/base/dists/signrank/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/signrank/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/signrank/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/t
+Apache-2.0
+
+@stdlib/stats/base/dists/t/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/t/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/t/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/t/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/t/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/t/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/t/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/t/median
+Apache-2.0
+
+@stdlib/stats/base/dists/t/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/t/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/t/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/t/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/t/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/t/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/median
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/triangular/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/truncated-normal
+Apache-2.0
+
+@stdlib/stats/base/dists/truncated-normal/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/median
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/uniform/variance
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/cdf
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/ctor
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/entropy
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/kurtosis
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/logcdf
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/logpdf
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/mean
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/median
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/mgf
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/mode
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/pdf
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/quantile
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/skewness
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/stdev
+Apache-2.0
+
+@stdlib/stats/base/dists/weibull/variance
+Apache-2.0
+
+@stdlib/utils/constant-function
+Apache-2.0
+
+@stdlib/utils/constructor-name
+Apache-2.0
+
+@stdlib/utils/define-nonenumerable-read-only-accessor
+Apache-2.0
+
+@stdlib/utils/define-nonenumerable-read-only-property
+Apache-2.0
+
+@stdlib/utils/define-property
+Apache-2.0
+
+@stdlib/utils/define-read-only-property
+Apache-2.0
+
+@stdlib/utils/eval
+Apache-2.0
+
+@stdlib/utils/global
+Apache-2.0
+
+@stdlib/utils/identity-function
+Apache-2.0
+
+@stdlib/utils/memoize
+Apache-2.0
+
+@stdlib/utils/native-class
+Apache-2.0
+
+@stdlib/utils/type-of
+Apache-2.0
+
+chart.js
+MIT
+The MIT License (MIT)
+
+Copyright (c) 2014-2022 Chart.js Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+debug
+MIT
+(The MIT License)
+
+Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
+and associated documentation files (the 'Software'), to deal in the Software without restriction, 
+including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial 
+portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT 
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+ionic-loader
+
+lodash-es
+MIT
+Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+
+Based on Underscore.js, copyright Jeremy Ashkenas,
+DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+
+This software consists of voluntary contributions made by many
+individuals. For exact contribution history, see the revision history
+available at https://github.com/lodash/lodash
+
+The following license applies to all parts of this software except as
+documented below:
+
+====
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+====
+
+Copyright and related rights for sample code are waived via CC0. Sample
+code is defined as all source code displayed within the prose of the
+documentation.
+
+CC0: http://creativecommons.org/publicdomain/zero/1.0/
+
+====
+
+Files located in the node_modules and vendor directories are externally
+maintained libraries used by this software which have their own
+licenses; we recommend you read them, as their terms may differ from the
+terms above.
+
+
+ms
+MIT
+The MIT License (MIT)
+
+Copyright (c) 2016 Zeit, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+ng2-charts
+ISC
+
+rxjs
+Apache-2.0
+                               Apache License
+                         Version 2.0, January 2004
+                      http://www.apache.org/licenses/
+
+ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+ 1. Definitions.
+
+    "License" shall mean the terms and conditions for use, reproduction,
+    and distribution as defined by Sections 1 through 9 of this document.
+
+    "Licensor" shall mean the copyright owner or entity authorized by
+    the copyright owner that is granting the License.
+
+    "Legal Entity" shall mean the union of the acting entity and all
+    other entities that control, are controlled by, or are under common
+    control with that entity. For the purposes of this definition,
+    "control" means (i) the power, direct or indirect, to cause the
+    direction or management of such entity, whether by contract or
+    otherwise, or (ii) ownership of fifty percent (50%) or more of the
+    outstanding shares, or (iii) beneficial ownership of such entity.
+
+    "You" (or "Your") shall mean an individual or Legal Entity
+    exercising permissions granted by this License.
+
+    "Source" form shall mean the preferred form for making modifications,
+    including but not limited to software source code, documentation
+    source, and configuration files.
+
+    "Object" form shall mean any form resulting from mechanical
+    transformation or translation of a Source form, including but
+    not limited to compiled object code, generated documentation,
+    and conversions to other media types.
+
+    "Work" shall mean the work of authorship, whether in Source or
+    Object form, made available under the License, as indicated by a
+    copyright notice that is included in or attached to the work
+    (an example is provided in the Appendix below).
+
+    "Derivative Works" shall mean any work, whether in Source or Object
+    form, that is based on (or derived from) the Work and for which the
+    editorial revisions, annotations, elaborations, or other modifications
+    represent, as a whole, an original work of authorship. For the purposes
+    of this License, Derivative Works shall not include works that remain
+    separable from, or merely link (or bind by name) to the interfaces of,
+    the Work and Derivative Works thereof.
+
+    "Contribution" shall mean any work of authorship, including
+    the original version of the Work and any modifications or additions
+    to that Work or Derivative Works thereof, that is intentionally
+    submitted to Licensor for inclusion in the Work by the copyright owner
+    or by an individual or Legal Entity authorized to submit on behalf of
+    the copyright owner. For the purposes of this definition, "submitted"
+    means any form of electronic, verbal, or written communication sent
+    to the Licensor or its representatives, including but not limited to
+    communication on electronic mailing lists, source code control systems,
+    and issue tracking systems that are managed by, or on behalf of, the
+    Licensor for the purpose of discussing and improving the Work, but
+    excluding communication that is conspicuously marked or otherwise
+    designated in writing by the copyright owner as "Not a Contribution."
+
+    "Contributor" shall mean Licensor and any individual or Legal Entity
+    on behalf of whom a Contribution has been received by Licensor and
+    subsequently incorporated within the Work.
+
+ 2. Grant of Copyright License. Subject to the terms and conditions of
+    this License, each Contributor hereby grants to You a perpetual,
+    worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+    copyright license to reproduce, prepare Derivative Works of,
+    publicly display, publicly perform, sublicense, and distribute the
+    Work and such Derivative Works in Source or Object form.
+
+ 3. Grant of Patent License. Subject to the terms and conditions of
+    this License, each Contributor hereby grants to You a perpetual,
+    worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+    (except as stated in this section) patent license to make, have made,
+    use, offer to sell, sell, import, and otherwise transfer the Work,
+    where such license applies only to those patent claims licensable
+    by such Contributor that are necessarily infringed by their
+    Contribution(s) alone or by combination of their Contribution(s)
+    with the Work to which such Contribution(s) was submitted. If You
+    institute patent litigation against any entity (including a
+    cross-claim or counterclaim in a lawsuit) alleging that the Work
+    or a Contribution incorporated within the Work constitutes direct
+    or contributory patent infringement, then any patent licenses
+    granted to You under this License for that Work shall terminate
+    as of the date such litigation is filed.
+
+ 4. Redistribution. You may reproduce and distribute copies of the
+    Work or Derivative Works thereof in any medium, with or without
+    modifications, and in Source or Object form, provided that You
+    meet the following conditions:
+
+    (a) You must give any other recipients of the Work or
+        Derivative Works a copy of this License; and
+
+    (b) You must cause any modified files to carry prominent notices
+        stating that You changed the files; and
+
+    (c) You must retain, in the Source form of any Derivative Works
+        that You distribute, all copyright, patent, trademark, and
+        attribution notices from the Source form of the Work,
+        excluding those notices that do not pertain to any part of
+        the Derivative Works; and
+
+    (d) If the Work includes a "NOTICE" text file as part of its
+        distribution, then any Derivative Works that You distribute must
+        include a readable copy of the attribution notices contained
+        within such NOTICE file, excluding those notices that do not
+        pertain to any part of the Derivative Works, in at least one
+        of the following places: within a NOTICE text file distributed
+        as part of the Derivative Works; within the Source form or
+        documentation, if provided along with the Derivative Works; or,
+        within a display generated by the Derivative Works, if and
+        wherever such third-party notices normally appear. The contents
+        of the NOTICE file are for informational purposes only and
+        do not modify the License. You may add Your own attribution
+        notices within Derivative Works that You distribute, alongside
+        or as an addendum to the NOTICE text from the Work, provided
+        that such additional attribution notices cannot be construed
+        as modifying the License.
+
+    You may add Your own copyright statement to Your modifications and
+    may provide additional or different license terms and conditions
+    for use, reproduction, or distribution of Your modifications, or
+    for any such Derivative Works as a whole, provided Your use,
+    reproduction, and distribution of the Work otherwise complies with
+    the conditions stated in this License.
+
+ 5. Submission of Contributions. Unless You explicitly state otherwise,
+    any Contribution intentionally submitted for inclusion in the Work
+    by You to the Licensor shall be under the terms and conditions of
+    this License, without any additional terms or conditions.
+    Notwithstanding the above, nothing herein shall supersede or modify
+    the terms of any separate license agreement you may have executed
+    with Licensor regarding such Contributions.
+
+ 6. Trademarks. This License does not grant permission to use the trade
+    names, trademarks, service marks, or product names of the Licensor,
+    except as required for reasonable and customary use in describing the
+    origin of the Work and reproducing the content of the NOTICE file.
+
+ 7. Disclaimer of Warranty. Unless required by applicable law or
+    agreed to in writing, Licensor provides the Work (and each
+    Contributor provides its Contributions) on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+    implied, including, without limitation, any warranties or conditions
+    of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+    PARTICULAR PURPOSE. You are solely responsible for determining the
+    appropriateness of using or redistributing the Work and assume any
+    risks associated with Your exercise of permissions under this License.
+
+ 8. Limitation of Liability. In no event and under no legal theory,
+    whether in tort (including negligence), contract, or otherwise,
+    unless required by applicable law (such as deliberate and grossly
+    negligent acts) or agreed to in writing, shall any Contributor be
+    liable to You for damages, including any direct, indirect, special,
+    incidental, or consequential damages of any character arising as a
+    result of this License or out of the use or inability to use the
+    Work (including but not limited to damages for loss of goodwill,
+    work stoppage, computer failure or malfunction, or any and all
+    other commercial damages or losses), even if such Contributor
+    has been advised of the possibility of such damages.
+
+ 9. Accepting Warranty or Additional Liability. While redistributing
+    the Work or Derivative Works thereof, You may choose to offer,
+    and charge a fee for, acceptance of support, warranty, indemnity,
+    or other liability obligations and/or rights consistent with this
+    License. However, in accepting such obligations, You may act only
+    on Your own behalf and on Your sole responsibility, not on behalf
+    of any other Contributor, and only if You agree to indemnify,
+    defend, and hold each Contributor harmless for any liability
+    incurred by, or claims asserted against, such Contributor by reason
+    of your accepting any such warranty or additional liability.
+
+ END OF TERMS AND CONDITIONS
+
+ APPENDIX: How to apply the Apache License to your work.
+
+    To apply the Apache License to your work, attach the following
+    boilerplate notice, with the fields enclosed by brackets "[]"
+    replaced with your own identifying information. (Don't include
+    the brackets!)  The text should be enclosed in the appropriate
+    comment syntax for the file format. We also recommend that a
+    file or class name and description of purpose be included on the
+    same "printed page" as the copyright notice for easier
+    identification within third-party archives.
+
+ Copyright (c) 2015-2018 Google, Inc., Netflix, Inc., Microsoft Corp. and contributors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+
+
+tslib
+0BSD
+Copyright (c) Microsoft Corporation.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+zone.js
+MIT
+The MIT License
+
+Copyright (c) 2010-2022 Google LLC. https://angular.io/license
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.

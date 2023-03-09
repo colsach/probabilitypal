@@ -1,0 +1,6 @@
+{
+	"appId": "com.colsach.propabilitypal",
+	"appName": "ProbabilityPal",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
