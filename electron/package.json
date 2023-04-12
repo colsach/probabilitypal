@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "probabilitypal",
   "version": "1.0.0",
   "description": "An Amazing Capacitor App",
@@ -9,6 +10,18 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/colsach/probabilitypal"
+=======
+  "name": "ProbabilityPal",
+  "version": "1.0.0",
+  "description": "An Amazing Capacitor App",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+>>>>>>> a44b4b5356e09081b450c40f6f3681286f520675
   },
   "license": "MIT",
   "main": "build/src/index.js",
@@ -33,11 +46,19 @@
     "electron-window-state": "~5.0.3"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@electron-forge/cli": "^6.1.1",
     "@electron-forge/maker-deb": "^6.1.1",
     "@electron-forge/maker-rpm": "^6.1.1",
     "@electron-forge/maker-squirrel": "^6.1.1",
     "@electron-forge/maker-zip": "^6.1.1",
+=======
+    "@electron-forge/cli": "^6.0.5",
+    "@electron-forge/maker-deb": "^6.0.5",
+    "@electron-forge/maker-rpm": "^6.0.5",
+    "@electron-forge/maker-squirrel": "^6.0.5",
+    "@electron-forge/maker-zip": "^6.0.5",
+>>>>>>> a44b4b5356e09081b450c40f6f3681286f520675
     "electron": "^19.0.0",
     "electron-rebuild": "^3.2.7",
     "typescript": "~4.3.5"
